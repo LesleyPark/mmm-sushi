@@ -1,3 +1,5 @@
+gem 'rails_12factor', group: :production
+
 source 'https://rubygems.org'
 
 
