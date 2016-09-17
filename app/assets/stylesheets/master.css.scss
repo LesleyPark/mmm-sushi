@@ -39,6 +39,8 @@
 	color: black;
 	font-size: 25px;
 	border-bottom: 1px solid #f84342;
+	font-family: 'sinkin_sans300_light', sans-serif;
+	font-weight: bold;
 }
 
 header{
@@ -47,4 +49,18 @@ header{
 
 hr {
 	clear:both;
+}
+
+h1 {
+	font-family: 'sinkin_sans300_light', sans-serif;
+	font-weight: bold;
+	font-size: 40px;
+
+}
+
+h2 {
+	font-family: 'sinkin_sans300_light', sans-serif;
+	font-size: 22px;
+	font-style: italic;
+
 }
